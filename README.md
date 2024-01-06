@@ -15,7 +15,7 @@ This project is part of the FreeCodeCamp.org course on Responsive Web Design. Th
 - CSS3
 
 ## Usage
-Feel free to explore the project and use it as a learning reference for responsive web design techniques. You can view the live demo [here](link_to_live_demo).
+Feel free to explore the project and use it as a learning reference for responsive web design techniques. You can view the live demo [here](cafe-menu-99.netlify.app).
 
 ## How to Contribute
 Contributions to improve the project's code structure, design enhancements, or additional features are welcome! Fork this repository, make your changes, and submit a pull request for review.
